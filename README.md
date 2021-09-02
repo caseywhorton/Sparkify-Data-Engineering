@@ -61,6 +61,7 @@ A single node cluster with a single dc2 large node is being used.
 You will need S3 read access to copy files from S3 to the staging tables. Refer to this link on setting up an IAM role on AWS: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-service.html.
 
 The only permission the role needs is the AmazonS3ReadOnlyAccess. View this ARN: **arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess**, below is the policy in JSON format:
+
 `
 {
     "Version": "2012-10-17",
