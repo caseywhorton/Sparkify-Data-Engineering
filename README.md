@@ -1,7 +1,7 @@
 <img src="images/weston-mackinnon-3pCRW_JRKM8-unsplash (1).jpg" width="1250" height="250">
 Photo by <a href="https://unsplash.com/@betteratf8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Weston MacKinnon</a> on <a href="https://unsplash.com/s/photos/sheet-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-# Sparkify Songplay Data ETL and Data Modeling
+# Sparkify Data Engineering
 
 ## Introduction
 
